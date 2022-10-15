@@ -9,7 +9,6 @@ from PIL import Image, ImageTk
 from matplotlib.animation import FuncAnimation
 from gurobipy import Model, GRB, quicksum
 
-
 #### index of the line to animate ####
 current_line = 0
 #### draw the current line up to the point of this index ####
