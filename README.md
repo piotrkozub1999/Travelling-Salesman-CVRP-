@@ -2,3 +2,4 @@ The program solves the Traveling Salesman problem, also known as the capacitated
 
 After selecting the load capacity and the number of packages, the program shows the journey using a graph:
 
+![screenshot1](./Results/40_packages.png)
